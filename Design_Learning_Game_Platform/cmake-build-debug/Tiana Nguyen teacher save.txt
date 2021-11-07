@@ -1,0 +1,8 @@
+Tiana Nguyen
+Colorado School of Mines
+BOOK:Hitchhiker's Guide to the Galaxy
+QUIZ:300
+QUESTION:What is the answer to life?
+ANSWER:42
+ANSWER:Live long and prosper
+CORRECT_ANSWER:42

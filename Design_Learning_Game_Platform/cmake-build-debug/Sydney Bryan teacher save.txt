@@ -1,0 +1,36 @@
+Sydney Bryan
+CSM
+BOOK:The Little Prince
+QUIZ:19
+QUESTION:Which point of view is Chapter 1 narrated from?
+ANSWER:1st person
+ANSWER:2nd person
+ANSWER:3rd person
+ANSWER:The boa constrictor
+CORRECT_ANSWER:1st person
+QUESTION:Why did the narrator become a pilot?
+ANSWER:He always wanted to fly
+ANSWER:He was tired of explaining his art to grown-ups
+CORRECT_ANSWER:He was tired of explaining his art to grown-ups
+QUESTION:What caused him to give up art?
+ANSWER:He wasn't very good at it
+ANSWER:He could only draw boa constrictors
+ANSWER:He was discouraged by grown-ups
+CORRECT_ANSWER:He was discouraged by grown-ups
+QUESTION:What problem does the pilot have?
+ANSWER:He needs to fix his plane
+ANSWER:He needs to draw a sheep
+ANSWER:Both
+ANSWER:He doesn't have a problem
+CORRECT_ANSWER:Both
+QUESTION:How does the pilot solve the problem of drawing a sheep?
+ANSWER:He doesn't, he can't draw a sheep
+ANSWER:He keeps trying and eventually draws a healthy sheep
+ANSWER:He draws a good sheep immeadiately
+ANSWER:He draws a box that he says has a sheep in it
+CORRECT_ANSWER:He draws a box that he says has a sheep in it
+QUESTION:In these chapters we met 2 characters. Which of the following refers to both of them?
+ANSWER:The narrator and the pilot
+ANSWER:The narrator and the little prince
+ANSWER:The blonde haired boy and the little prince
+CORRECT_ANSWER:The narrator and the little prince

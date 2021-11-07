@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aidan/Documents/EDNS 151/Game/book_set.h
+string
+-
+iostream
+-
+quiz.h
+/Users/aidan/Documents/EDNS 151/Game/quiz.h
+
+/Users/aidan/Documents/EDNS 151/Game/main.cpp
+iostream
+-
+string
+-
+vector
+-
+fstream
+-
+student.h
+/Users/aidan/Documents/EDNS 151/Game/student.h
+teacher.h
+/Users/aidan/Documents/EDNS 151/Game/teacher.h
+iomanip
+-
+stdlib.h
+/Users/aidan/Documents/EDNS 151/Game/stdlib.h
+
+/Users/aidan/Documents/EDNS 151/Game/question.h
+string
+-
+vector
+-
+
+/Users/aidan/Documents/EDNS 151/Game/quiz.h
+string
+-
+vector
+-
+map
+-
+question.h
+/Users/aidan/Documents/EDNS 151/Game/question.h
+
+/Users/aidan/Documents/EDNS 151/Game/student.h
+string
+-
+iostream
+-
+vector
+-
+set
+-
+
+/Users/aidan/Documents/EDNS 151/Game/teacher.h
+string
+-
+vector
+-
+map
+-
+book_set.h
+/Users/aidan/Documents/EDNS 151/Game/book_set.h
+

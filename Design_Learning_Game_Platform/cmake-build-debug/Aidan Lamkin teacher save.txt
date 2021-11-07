@@ -1,0 +1,31 @@
+Aidan Lamkin
+CSM
+BOOK:Captain Underpants
+QUIZ:15
+QUESTION:Is he bald?
+ANSWER:yes
+ANSWER:no
+CORRECT_ANSWER:yes
+QUESTION:Does he have a cape?
+ANSWER:yes
+ANSWER:no
+ANSWER:sometimes
+CORRECT_ANSWER:yes
+BOOK:Moby
+QUIZ:1250
+QUESTION:Is there a whale?
+ANSWER:Yes
+ANSWER:No
+ANSWER:Who's to say?
+CORRECT_ANSWER:Who's to say?
+BOOK:Lord of the Flies
+QUIZ:10
+QUESTION:Conshell?
+ANSWER:Good
+ANSWER:Bad
+ANSWER:Chaotic Nuetral
+CORRECT_ANSWER:Chaotic Nuetral
+QUIZ:30
+QUESTION:Anybody dead?
+ANSWER:Yes
+CORRECT_ANSWER:Yes
